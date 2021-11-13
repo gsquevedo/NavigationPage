@@ -1,6 +1,6 @@
 
 ## Tecnologia
-- JavaScript
+- TypeScript
 - ReactJS
 
 ## Como compilar
